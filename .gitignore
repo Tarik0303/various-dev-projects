@@ -1,7 +1,7 @@
 /EMF/EMF_tutorial/.metadata/*
 
 # Compiled class file
-*.class
+#*.class
 
 # Log file
 *.log
